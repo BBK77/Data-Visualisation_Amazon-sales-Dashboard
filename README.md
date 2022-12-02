@@ -1,4 +1,4 @@
-# Data-Visualisation_Amazon-sales-Dashboard
+# Data_Visualisation_Amazon_sales_Dashboard
 Amazon Sales Dashboard
 
 Domain: Sales
