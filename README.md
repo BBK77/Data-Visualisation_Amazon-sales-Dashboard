@@ -23,17 +23,7 @@ and work around how they`re doing in different sales regions.
 3.They have given the sales and regions data to me  want load into Power BI and do some data wrangling and some transformations to make this data more clear.
 
 
-
-
-
 ![Amazon Data Visualization Dashboard](https://user-images.githubusercontent.com/97013097/205302639-a28bfb07-b68c-4e3a-a9a1-9b05690ec96c.png)
-
-----------------------------------------------
-Link to Live Dashboard : https://www.novypro.com/project/sales-analysis-13
-----------------------------------------------
-
-
-
 
 
 Some Insights :
@@ -43,3 +33,8 @@ Some Insights :
 2.Bikes category is having 95.83% than accessories of 3.09%  and clothing 1.08%.
 
 3.Australia is having highest return rate than others and north america in second place.
+
+
+---------------------------------------------
+Link to Live Dashboard : https://www.novypro.com/project/sales-analysis-13
+---------------------------------------------
