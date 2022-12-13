@@ -28,6 +28,10 @@ and work around how they`re doing in different sales regions.
 
 ![Amazon Data Visualization Dashboard](https://user-images.githubusercontent.com/97013097/205302639-a28bfb07-b68c-4e3a-a9a1-9b05690ec96c.png)
 
+----------------------------------------------
+Link to Live Dashboard : https://www.novypro.com/project/sales-analysis-13
+----------------------------------------------
+
 
 
 
